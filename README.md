@@ -1,100 +1,110 @@
-<!--
-## Hi there 👋
+# Hi there, I'm Johan 👋👨‍💻
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm a passionate Data Scientist and Software Engineer with 8 years of industry experience in Research and Development. I thrive on tackling challenging problems and turning data into useful nuggets and aha moments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
 
+- 🔭 I’m currently looking for a job in Data Science or Software Engineering
+- 🌱 Currently obsessed with Machine Learning and AI 🤖
+- 💬 Ask me about how much I bench (or have a look for yourself [here](https://openpowerlifting.org/u/johanfrisk))
+- 📫 How to reach me: [johan@friskenstein.com](mailto:johan@friskenstein.com)
+
+## 📚 Education
+
+- **Master's in Physics** from Åbo Akademi University
+
+## 📝 Publications
+
+- [A low-cost paper-based platform for fast and reliable screening of cellular interactions with materials](https://dx.doi.org/10.1039/C9TB01958H)
+  - Published in Journal of Materials Chemistry B
+- [Voltage dependent reduction rates of graphene oxide in cell culture medium, deionized water, and an ionic liquid](https://doi.org/10.1016/j.orgel.2017.04.029)
+  - Published in Organic Electronics
 
 ## I code with
 
-<div align="center">
-  Tools
-</div>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=neovim" height="40" alt="neovim logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=md" height="40" alt="markdown logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-</div>
-<div align="center">
-  Languages
-</div>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-</div>
-<div align="center">
-  Backend Tech
-</div>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bun" height="40" alt="bun logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo"  />
-</div>
-<div align="center">
-  Frontend Tech
-</div>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="40" alt="svelte logo"  />
-</div>
-<div align="center">
-  Web Infra Tech
-</div>
-<div align="center">
-  <img src="https://cdn.simpleicons.org/nginx/009639" height="40" alt="nginx logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-</div>
-<div align="center">
-  Platforms
-</div>
-<div align="center">
-  <img src="https://cdn.simpleicons.org/android/3DDC84" height="40" alt="android logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=raspberrypi" height="40" alt="raspberrypi logo"  />
-</div>
-<div align="center">
-  Hardware
-</div>
-<div align="center">
-  <img src="https://img.shields.io/badge/Apple-000000?logo=apple&logoColor=white&style=for-the-badge" height="40" alt="apple logo"  />
-</div>
+<table>
+  <tr>
+    <th>Tools</th>
+    <th>Languages</th>
+    <th>Platforms</th>
+  </tr>
+  <tr>
+    <td align="center" style="vertical-align: top;">
+    <div style="display: grid; grid-template-columns: repeat(3, 1fr); grid-gap: 4px;">
+      <img src="https://skillicons.dev/icons?i=neovim" height="40" alt="neovim logo" title="neovim" />
+      <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo" title="bash" />
+      <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" title="git" />
+      <img src="https://skillicons.dev/icons?i=md" height="40" alt="markdown logo" title="markdown" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo" title="jupyter" />
+      </div>
+    </td>
+    <td align="center" style="vertical-align: top;">
+    <div style="display: grid; grid-template-columns: repeat(3, 1fr); grid-gap: 4px;">
+      <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" title="python" />
+      <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo" title="typescript" />
+      <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" title="javascript" />
+      <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo" title="go" />
+      <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo" title="php" />
+      <img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust logo" title="rust" />
+      <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" title="java" />
+      </div>
+    </td>
+    <td align="center" style="vertical-align: top;">
+    <div style="display: grid; grid-template-columns: repeat(3, 1fr); grid-gap: 4px;">
+      <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo" title="linux" />
+      <img src="https://cdn.simpleicons.org/android/3DDC84" height="40" alt="android logo" title="android" />
+      <img src="https://skillicons.dev/icons?i=raspberrypi" height="40" alt="raspberrypi logo" title="raspberrypi" />
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <th>Frontend Tech</th>
+    <th>Backend Tech</th>
+    <th>Web Infra Tech</th>
+  </tr>
+  <tr>
+    <td align="center" style="vertical-align: top;">
+    <div style="display: grid; grid-template-columns: repeat(3, 1fr); grid-gap: 4px;">
+      <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" title="html5" />
+      <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo" title="css3" />
+      <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo" title="tailwindcss" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="40" alt="svelte logo" title="svelte" />
+        </div>
+    </td>
+    <td align="center" style="vertical-align: top;">
+    <div style="display: grid; grid-template-columns: repeat(3, 1fr); grid-gap: 4px;">
+      <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo" title="nodejs" />
+      <img src="https://skillicons.dev/icons?i=bun" height="40" alt="bun logo" title="bun" />
+      <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo" title="fastapi" />
+      <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo" title="flask" />
+      <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo" title="sqlite" />
+      <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" title="mongodb" />
+      </div>
+    </td>
+    <td align="center" style="vertical-align: top;">
+    <div style="display: grid; grid-template-columns: repeat(3, 1fr); grid-gap: 4px;">
+      <img src="https://cdn.simpleicons.org/nginx/009639" height="40" alt="nginx logo" title="nginx" />
+      <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" title="docker" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo" title="apache" />
+        </div>
+    </td>
+  </tr>
+  <tr>
+    <th colspan="3">Hardware</th>
+  </tr>
+  <tr>
+    <td colspan="3" align="center">
+      <img src="https://img.shields.io/badge/Apple-000000?logo=apple&logoColor=white&style=for-the-badge" height="40" alt="apple logo" title="apple" />
+    </td>
+  </tr>
+</table>
+
+
+### You should also check out my Gitlab and LinkedIn profiles
+
+<a href="https://gitlab.com/friskenstein">
+    <img src="https://skillicons.dev/icons?i=gitlab" height="40" title="gitlab"  />
+</a>
+<a href="https://www.linkedin.com/in/johan-frisk">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40" title="linkedin"  />
+</a>
