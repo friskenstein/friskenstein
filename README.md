@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate Data Scientist and Software Engin
 
 ## About Me
 
-- 🔭 I’m ongoingly looking for a job in Data Science or Software Engineering
+- 🔭 I’m seeking employment in Data Science or Software Engineering
 - 🌱 Currently obsessed with Machine Learning and AI 🤖
 - 💬 Ask me about how much I bench (or have a look for yourself [here](https://openpowerlifting.org/u/johanfrisk))
 - 📫 How to reach me: [johan@friskenstein.com](mailto:johan@friskenstein.com)
