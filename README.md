@@ -1,10 +1,10 @@
 # Hi there, I'm Johan 👋👨‍💻
 
-Welcome to my GitHub profile! I'm a passionate Data Scientist and Software Engineer with 8 years of industry experience in Research and Development. I thrive on tackling challenging problems and turning data into useful nuggets and aha moments.
+Welcome to my GitHub profile! I'm a passionate Data Scientist and Software Engineer with 8 years of industry experience. I thrive on tackling challenging problems and turning data into useful nuggets and aha moments. ✨🥔
 
 ## About Me
 
-- 🔭 I’m currently looking for a job in Data Science or Software Engineering
+- 🔭 I’m ongoingly looking for a job in Data Science or Software Engineering
 - 🌱 Currently obsessed with Machine Learning and AI 🤖
 - 💬 Ask me about how much I bench (or have a look for yourself [here](https://openpowerlifting.org/u/johanfrisk))
 - 📫 How to reach me: [johan@friskenstein.com](mailto:johan@friskenstein.com)
