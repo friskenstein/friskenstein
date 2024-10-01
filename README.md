@@ -108,5 +108,3 @@ Welcome to my GitHub profile! I'm a passionate Software Developer and Data Scien
 <a href="https://www.linkedin.com/in/johan-frisk">
 <img src="https://skillicons.dev/icons?i=linkedin" height="40" title="linkedin"  />
 </a>
-
-### There's not much on display here since most of my work is private 🤷‍♂️
