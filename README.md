@@ -37,7 +37,7 @@ I'm a passionate Software Developer and R&D Engineer with 10 years of industry e
       <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo" title="bash" />
       <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" title="git" />
       <img src="https://skillicons.dev/icons?i=md" height="40" alt="markdown logo" title="markdown" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo" title="jupyter" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" style="height:40px" alt="jupyter logo" title="jupyter" />
       </div>
     </td>
     <td align="center" style="vertical-align: top;">
@@ -54,7 +54,7 @@ I'm a passionate Software Developer and R&D Engineer with 10 years of industry e
     <td align="center" style="vertical-align: top;">
     <div style="display: grid; grid-template-columns: repeat(3, 1fr); grid-gap: 4px;">
       <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo" title="linux" />
-      <img src="https://cdn.simpleicons.org/android/3DDC84" height="40" alt="android logo" title="android" />
+      <img src="https://cdn.simpleicons.org/android/3DDC84" height="40" style="height:40px" alt="android logo" title="android" />
       <img src="https://skillicons.dev/icons?i=raspberrypi" height="40" alt="raspberrypi logo" title="raspberrypi" />
       </div>
     </td>
@@ -67,10 +67,9 @@ I'm a passionate Software Developer and R&D Engineer with 10 years of industry e
   <tr>
     <td align="center" style="vertical-align: top;">
     <div style="display: grid; grid-template-columns: repeat(3, 1fr); grid-gap: 4px;">
-      <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" title="html5" />
-      <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo" title="css3" />
-      <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo" title="tailwindcss" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="40" alt="svelte logo" title="svelte" />
+      <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" title="react" />
+      <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" style="height:40px" alt="tailwindcss logo" title="tailwindcss" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="40" style="height:40px" alt="svelte logo" title="svelte" />
         </div>
     </td>
     <td align="center" style="vertical-align: top;">
@@ -85,9 +84,9 @@ I'm a passionate Software Developer and R&D Engineer with 10 years of industry e
     </td>
     <td align="center" style="vertical-align: top;">
     <div style="display: grid; grid-template-columns: repeat(3, 1fr); grid-gap: 4px;">
-      <img src="https://cdn.simpleicons.org/nginx/009639" height="40" alt="nginx logo" title="nginx" />
+      <img src="https://cdn.simpleicons.org/nginx/009639" height="40" style="height:40px" alt="nginx logo" title="nginx" />
       <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" title="docker" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo" title="apache" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" style="height:40px" alt="apache logo" title="apache" />
         </div>
     </td>
   </tr>
