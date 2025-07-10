@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile!
 
-I'm a passionate Software Developer and R&D Engineer with 10 years of industry experience. I thrive on tackling challenging problems and making ambitious ideas become reality. 🥔✨
+I'm a passionate Software Developer with 10 years of industry experience. I thrive on tackling challenging problems and making ambitious ideas become reality. 🥔✨
 
 ## About Me
 
